@@ -1,0 +1,123 @@
+{
+    "header": {
+      "logo_url": "https://sunglass.mohasagorit.solutions/public//storage/images/general_setting/6qUdJH8QjrCcl43sPHH14iJFvzp63cBAMzOVDaW6.png",
+      "banner_image": "https://sunglass.mohasagorit.solutions/public//storage/images/page/clothing/Bvcdug6xoP4Oz7LTCVRA5qXZsCH9NWZTWmP0u8fO.webp",
+      "main_heading": "\"ক্যাজুয়াল হোক বা ফরমাল – সব লুকে পারফেক্ট আমাদের শার্ট!\""
+    },
+    "prices": {
+      "regular_price": "4650 টাকা",
+      "offer_price": "4300 টাকা (প্রতি পিস)"
+    },
+    "product_images": [
+      "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739171060_5669.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739168229_3654.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739167914_9987.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739168186_3996.jpg"
+    ],
+    "videos": [
+      {
+        "youtube_id": "nfTpuT-xTWI",
+        "embed_url": "https://www.youtube.com/embed/nfTpuT-xTWI"
+      },
+      {
+        "youtube_id": "ncyohWSbwnE",
+        "embed_url": "https://www.youtube.com/embed/ncyohWSbwnE"
+      }
+    ],
+    "size_guide": {
+      "description": "পারফেক্ট ফিট নিশ্চিত করতে অর্ডারের আগে সাইজ চার্ট চেক করুন।",
+      "sizes": [
+        "M (মিডিয়াম – চেস্ট: ৪০\", লম্বা: ২৮\"",
+        "L (লার্জ) – চেস্ট: ৪২\", লম্বা: ২৯\"",
+        "XL (এক্সট্রা লার্জ) – চেস্ট: ৪৪\", লম্বা: ৩০\"",
+        "XXL (ডাবল এক্সট্রা লার্জ) – চেস্ট: ৪৬\", লম্বা: ৩১\""
+      ],
+      "details": [
+        "ফিটিং: স্লিম ও রেগুলার ফিট",
+        "ফ্যাব্রিক: কটন, লিনেন, ডেনিম",
+        "ডিজাইন: সলিড, চেক, স্ট্রাইপ",
+        "রঙ: ব্ল্যাক, হোয়াইট, ব্লু, গ্রে, মারুন"
+      ]
+    },
+    "product_list": [
+      {
+        "id": 24,
+        "name": "Slim-Fit Dress Shirt",
+        "price": "1840TK",
+        "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739171060_5669.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Luxury Satin Finish Shirt",
+        "price": "1960TK",
+        "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739168229_3654.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Tailored Fit Formal Shirt",
+        "price": "1800TK",
+        "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739167914_9987.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Executive Pinstripe Shirt",
+        "price": "2500TK",
+        "image": "https://sunglass.mohasagorit.solutions/public//storage/images/product_thumbnail_img/thumbnail_1739168186_3996.jpg"
+      }
+    ],
+    "customer_reviews": [
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_8833.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_2254.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_1931.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_4331.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_8626.jpg",
+      "https://sunglass.mohasagorit.solutions/public//storage/images/review/review_1739169354_5129.jpg"
+    ],
+    "billing_info": {
+      "fields": [
+        {
+          "name": "mobile_no",
+          "placeholder": "মোবাইল নাম্বার দিন",
+          "icon": "phone"
+        },
+        {
+          "name": "name",
+          "placeholder": "আপনার নাম",
+          "icon": "user"
+        },
+        {
+          "name": "shipping_charge_id",
+          "type": "select",
+          "options": [
+            {
+              "id": 7,
+              "area": "Inside Dhaka",
+              "charge": "70Tk"
+            },
+            {
+              "id": 8,
+              "area": "Outside Dhaka",
+              "charge": "130 Tk"
+            },
+            {
+              "id": 9,
+              "area": "Dhaka Sub Area",
+              "charge": "100 Tk"
+            }
+          ]
+        },
+        {
+          "name": "address",
+          "placeholder": "আপনার সম্পূর্ণ ঠিকানা",
+          "icon": "location-dot"
+        }
+      ]
+    },
+    "footer": {
+      "copyright_text": "© 2025 \"ক্যাজুয়াল হোক বা ফরমাল – সব লুকে পারফেক্ট আমাদের শার্ট!\". Powered By",
+      "powered_by": {
+        "name": "MIT",
+        "url": "https://www.mohasagorit.solutions/"
+      }
+    }
+  }
